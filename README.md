@@ -2,3 +2,6 @@
 A clean workspace switcher
 
 ![switcher](https://i.imgur.com/tkxpzwU.jpg)
+
+Disable miniature view and set workspace names to blank spaces.
+
