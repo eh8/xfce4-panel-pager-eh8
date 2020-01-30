@@ -1,0 +1,20 @@
+#xfce-panel-toggle-button:checked {
+  background: url("~/.config/gtk-3.0/icons/1.png");
+  background-size: 12px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#xfce-panel-toggle-button {
+  background: url("~/.config/gtk-3.0/icons/2.png");
+  background-size: 12px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#xfce-panel-toggle-button:hover {
+  background: url("~/.config/gtk-3.0/icons/3.png");
+  background-size: 12px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
